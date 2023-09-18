@@ -90,6 +90,12 @@ export const BibleVersionCollection: IBibleVersion[] = [
     apiSource: BibleAPISourceCollection.bollsLife,
   },
   {
+    key: 'ntlh',
+    versionName: 'Nova Tradução Na Linguagem de Hoje',
+    language: 'Portuguese',
+    apiSource: BibleAPISourceCollection.bollsLife,
+  },
+  {
     key: 'cuv',
     versionName: 'Chinese Union Version (Traditional)',
     language: 'Chinese',
